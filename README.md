@@ -23,28 +23,24 @@ Our pro customers don't exactly know which insurance product they need to subscr
 Our purpose is to do that choice for them, or at least to restrict the choice to all eligible products to their needs and context.
 
 You have to design a user-friendly funnel, as simple as possible, able to reach that goal.
+This funnel ends with the selection made by the customer, and so, a confirm message that he will contact by a sales manager.
 
 ## Business logic
 
 For any offer, we need to collect at least the first and last name of the subscriber, his email, his phone number and his postal address.
 
-Our catalog for pros offers several products, in two categories :
+Our catalog for pros offers several products, but we will focus on civil liabilities. Here is the list of products:
 
-- Civil liability
-    - For self-employed person (with insurer WAKAM)
-    - Starter (with insurer AXA)
-    - Rainboots (with insurer AXA)
-    - Raincoat (with insurer AXA)
-    - Waterproof (with insurer AXA)
-    - Avantage (with insurer HISCOX)
-    - Avantage Plus (with insurer HISCOX)
-    - Avantage Premium (with insurer HISCOX)
-- 10-year guarantee
-    - with insurer QBE
-    - with insurer ERGO
-    - with insurer WAKAM
+- For self-employed person (with insurer WAKAM)
+- Starter (with insurer AXA)
+- Rainboots (with insurer AXA)
+- Raincoat (with insurer AXA)
+- Waterproof (with insurer AXA)
+- Avantage (with insurer HISCOX)
+- Avantage Plus (with insurer HISCOX)
+- Avantage Premium (with insurer HISCOX)
 
-Below are the description of each product, including the criteria and the annual premium related to each case.
+Below are the description of each product, including criteria and the annual premium related to each case.
 
 ### For self-employed person (with insurer WAKAM)
 
@@ -424,23 +420,22 @@ All activities from the following list are covered, with the customer's annual p
         <td rowspan="3">Sociologue</td>
         <td>Any</td>
         <td>150 000 €</td>
-        <td>France</td>
+        <td>World</td>
         <td>Avantage</td>
         <td>265.20 €</td>
     </tr>
     <tr>
         <td>Any</td>
         <td>500 000 €</td>
-        <td>France</td>
+        <td>World</td>
         <td>Avantage Plus</td>
         <td>330 €</td>
     </tr>
     <tr>
         <td>Any</td>
         <td>5 000 000 €</td>
-        <td>France</td>
+        <td>World</td>
         <td>Avantage Premium</td>
         <td>386.40 €</td>
     </tr>
 </table>
-
