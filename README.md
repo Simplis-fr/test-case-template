@@ -23,7 +23,7 @@ Our pro customers don't exactly know which insurance product they need to subscr
 Our purpose is to do that choice for them, or at least to restrict the choice to all eligible products to their needs and context.
 
 You have to design a user-friendly funnel, as simple as possible, able to reach that goal.
-This funnel ends with the selection made by the customer, and so, a confirm message that he will contact by a sales manager.
+This funnel ends with the selection made by the customer, and so, a confirmation message that he will be contacted by a sales manager.
 
 ## Business logic
 
