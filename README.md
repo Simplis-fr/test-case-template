@@ -2,7 +2,7 @@
 
 1. Install Docker CE (https://docs.docker.com/engine/install/)
 2. Install NPM and Node (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-3. git clone git@github.com:Simplis-fr/test-case-template.git
+3. git clone git@github.com:Simplis-fr/test-case-template.git ou git clone https://github.com/Simplis-fr/test-case-template.git
 4. cd test-case-template
 5. make build
 6. make start
